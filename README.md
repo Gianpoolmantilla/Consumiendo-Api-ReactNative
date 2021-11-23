@@ -1,2 +1,2 @@
 # Consumiendo-Api-ReactNative
-api sacado de : https://www.freetogame.com/api-doc
+api que se consume : https://www.freetogame.com/api-doc
